@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<SaveMailParam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SMTPServer>smtp.mail.ru</SMTPServer>
+  <SMTPPort>25</SMTPPort>
+  <FromMail />
+  <FromPassword />
+  <SSL>true</SSL>
+  <DisplayName />
+  <ToMail />
+  <Tema />
+  <isHTML>false</isHTML>
+  <Text />
+</SaveMailParam>
